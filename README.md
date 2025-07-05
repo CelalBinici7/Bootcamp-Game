@@ -1,10 +1,10 @@
 # Takım İsmi
 Grup 35 (Unity)
 # Takım Üyeleri
-Çağla Ezber - Product Owner 
-Başar Çelik - Developer
-Sedef Şahin - Scrum Master
-Celal Binici - Developer
+Çağla Ezber - Product Owner /
+Başar Çelik - Developer /
+Sedef Şahin - Scrum Master /
+Celal Binici - Developer /
 Derya Nur Yılmaz - Developer
 # Oyun İsmi
 Last Signal
