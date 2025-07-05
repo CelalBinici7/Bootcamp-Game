@@ -1,9 +1,9 @@
 # Takım İsmi
 Grup 35 (Unity)
 # Takım Üyeleri
-Çağla Ezber - Product Owner /
+Çağla Ezber - Scrum Master /
 Başar Çelik - Developer /
-Sedef Şahin - Scrum Master /
+Sedef Şahin - Product Owner /
 Celal Binici - Developer /
 Derya Nur Yılmaz - Developer
 # Oyun İsmi
