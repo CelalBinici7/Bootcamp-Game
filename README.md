@@ -17,17 +17,17 @@ Platform: PC / Bakış Açısı: Top-down veya izometrik Tema: Bilim kurgu, uzay
 
 - Tahmin Edilen Tamamlanacak Puan: 100
 
-Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 100 ile başlaması gerektiği kararlaştırıldı.
+- Puan tamamlama mantığı: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 100 ile başlaması gerektiği kararlaştırıldı.
 
-Backlog düzeni ve Story seçimleri: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Trello üzerinde ana başlıklar altında hepsi kategorize edildi.  Sprint sonu günleri ekibin dinlenmesi amacıyla boş bırakılmıştır. 
+- Backlog düzeni ve Story seçimleri: Backlog'umuz bir sonraki sprintlerin temelini atacak şekilde düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde görevler dağıtılmıştır. Trello üzerinde ana başlıklar altında hepsi kategorize edildi.  Sprint sonu günleri ekibin dinlenmesi amacıyla boş bırakılmıştır. 
 
-Daily Scrum: Daily Scrum toplantılarının Google Meet üzerinden yapılması kararlaştırılmıştır. Whatsapp üzerinden toplantı saaatleri kararlaştırılarak herkesin uygun olduğu zamanlar göz önünde bulundurulmuş ve toplantılar gerçekleştirilmiştir.
+- Daily Scrum: Daily Scrum toplantılarının Google Meet üzerinden yapılması kararlaştırılmıştır. Whatsapp üzerinden toplantı saaatleri kararlaştırılarak herkesin uygun olduğu zamanlar göz önünde bulundurulmuş ve toplantılar gerçekleştirilmiştir.
 
-Sprint Review: Bütün ekip projede için oyun fikirleri sundu ve bunun hakkındaki görüşlerini iletti. Oyunun güncel tasarımının ve gidişatının beğenildiği belirtildi ve devamı üzerine yeni fikirler ortaya atıldı. Sprint içerisinde tasarlanmış olan oyun fikri tüm ekip tarafından beğenildi üzerine geliştirmeler yapıldı ve oyunun ilk mekanikleri hazırlanmaya başlandı.
+- Sprint Review: Bütün ekip projede için oyun fikirleri sundu ve bunun hakkındaki görüşlerini iletti. Oyunun güncel tasarımının ve gidişatının beğenildiği belirtildi ve devamı üzerine yeni fikirler ortaya atıldı. Sprint içerisinde tasarlanmış olan oyun fikri tüm ekip tarafından beğenildi üzerine geliştirmeler yapıldı ve oyunun ilk mekanikleri hazırlanmaya başlandı.
 
-Sprint Review katılımcıları: Başar Çelik, Celal Binici, Çağla Hüdanur Ezber, Derya Nur Yılmaz, Sedef Şahin.
+- Sprint Review katılımcıları: Başar Çelik, Celal Binici, Çağla Hüdanur Ezber, Derya Nur Yılmaz, Sedef Şahin.
 
-Sprint Retrospective: Ekip, iş bölümü açısından yazılım ve tasarım olmak üzere iki ana gruba ayrıldı. Yazılımcılar (Başar, Celal, Sedef), oyunun kalan dört bölümünü geliştirerek projenin teknik altyapısını tamamlamaya odaklanırken; tasarımcılar (Çağla, Derya), oluşturulan bölümlerdeki eksiklikleri gidermek, arayüzleri düzenlemek ve oyunu final aşamasına hazır hale getirmek üzere çalışmalarını sürdürmektedir. Toplantıların belirli bir zaman aralığıyla ve düzenli şekilde gerçekleştirilmesine karar verilmiştir. Ayrıca, üretim sürecinde görev alan ekip üyeleri tarafından ilerleyen aşamalarda ihtiyaç duyulabilecek asset’lerin listesi hazırlanarak ilerideki sprintler için ön hazırlık yapılmıştır.
+- Sprint Retrospective: Ekip, iş bölümü açısından yazılım ve tasarım olmak üzere iki ana gruba ayrıldı. Yazılımcılar (Başar, Celal, Sedef), oyunun kalan dört bölümünü geliştirerek projenin teknik altyapısını tamamlamaya odaklanırken; tasarımcılar (Çağla, Derya), oluşturulan bölümlerdeki eksiklikleri gidermek, arayüzleri düzenlemek ve oyunu final aşamasına hazır hale getirmek üzere çalışmalarını sürdürmektedir. Toplantıların belirli bir zaman aralığıyla ve düzenli şekilde gerçekleştirilmesine karar verilmiştir. Ayrıca, üretim sürecinde görev alan ekip üyeleri tarafından ilerleyen aşamalarda ihtiyaç duyulabilecek asset’lerin listesi hazırlanarak ilerideki sprintler için ön hazırlık yapılmıştır.
 
-Sprint board:
+- Sprint board:
 ![Ekran görüntüsü 2025-07-07 222750](https://github.com/user-attachments/assets/b6081c72-f326-411c-8843-c0a59e39e986)
