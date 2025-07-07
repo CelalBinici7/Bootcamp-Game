@@ -27,7 +27,8 @@ Platform: PC / Bakış Açısı: Top-down veya izometrik Tema: Bilim kurgu, uzay
 
 - Sprint Review katılımcıları: Başar Çelik, Celal Binici, Çağla Hüdanur Ezber, Derya Nur Yılmaz, Sedef Şahin.
 
-- Sprint Retrospective: Ekip, iş bölümü açısından yazılım ve tasarım olmak üzere iki ana gruba ayrıldı. Yazılımcılar (Başar, Celal, Sedef), oyunun kalan dört bölümünü geliştirerek projenin teknik altyapısını tamamlamaya odaklanırken; tasarımcılar (Çağla, Derya), oluşturulan bölümlerdeki eksiklikleri gidermek, arayüzleri düzenlemek ve oyunu final aşamasına hazır hale getirmek üzere çalışmalarını sürdürmektedir. Toplantıların belirli bir zaman aralığıyla ve düzenli şekilde gerçekleştirilmesine karar verilmiştir. Ayrıca, üretim sürecinde görev alan ekip üyeleri tarafından ilerleyen aşamalarda ihtiyaç duyulabilecek asset’lerin listesi hazırlanarak ilerideki sprintler için ön hazırlık yapılmıştır.
+- Sprint Retrospective: Ekip, iş bölümü açısından yazılım ve tasarım olmak üzere iki ana gruba ayrıldı. Yazılımcılar (Başar, Celal, Derya), oyunun kalan dört bölümünü geliştirerek projenin teknik altyapısını tamamlamaya odaklanırken; tasarımcılar (Çağla, Sedef
+- ), oluşturulan bölümlerdeki eksiklikleri gidermek, arayüzleri düzenlemek ve oyunu final aşamasına hazır hale getirmek üzere çalışmalarını sürdürmektedir. Toplantıların belirli bir zaman aralığıyla ve düzenli şekilde gerçekleştirilmesine karar verilmiştir. Ayrıca, üretim sürecinde görev alan ekip üyeleri tarafından ilerleyen aşamalarda ihtiyaç duyulabilecek asset’lerin listesi hazırlanarak ilerideki sprintler için ön hazırlık yapılmıştır.
 
 - Sprint board:
 ![Ekran görüntüsü 2025-07-07 222750](https://github.com/user-attachments/assets/b6081c72-f326-411c-8843-c0a59e39e986)
