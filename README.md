@@ -32,3 +32,5 @@ Platform: PC / Bakış Açısı: Top-down veya izometrik Tema: Bilim kurgu, uzay
 
 - Sprint board:
 ![Ekran görüntüsü 2025-07-07 222750](https://github.com/user-attachments/assets/b6081c72-f326-411c-8843-c0a59e39e986)
+
+# Sprint 2
