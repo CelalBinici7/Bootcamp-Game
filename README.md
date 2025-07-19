@@ -58,38 +58,40 @@ Platform: PC / Bakış Açısı: Top-down veya izometrik Tema: Bilim kurgu, uzay
 # Sprint 2
 # 🚀 Sprint 2 Raporu – Last Space
 
-## 📌 Sprint Özeti
+- 🎯 **Tahmin Edilen Tamamlanacak Puan:** 100
+
+**📌 Sprint Özeti**
 Sprint 2, proje temelinin atıldığı ilk sprintin ardından somut üretimlerin hızlandığı bir dönem olmuştur. Bu sprintte özellikle oyun haritası tasarımı, giriş arayüzü geliştirmeleri ve temel oyun mekaniklerinin oluşturulmasına odaklanılmıştır.
 
 Ekip üyeleri bireysel görevlerini tamamlayarak gelişmeleri WhatsApp üzerinden paylaşmış, günlük scrum toplantıları ise Google Meet platformunda gerçekleştirilmiştir.
 
-## ✅ Yapılan Çalışmalar
+**✅ Yapılan Çalışmalar**
 - Oyun haritası tasarımına başlanmış, renk ve yapı seçimi projenin genel temasıyla uyumlu hale getirilmiştir.
 - Unity üzerinde temel oyun mekanikleri ve arka plan işlevleri geliştirilmiştir.
 - Giriş ekranı ve kullanıcı arayüzü tasarımları hazırlanmış, font ve bileşenler detaylandırılarak geliştiricilere iletilmiştir.
 - Yazılım tarafında oyunun işlevsel parçalarının geliştirilmesine devam edilmiştir.
 - Kullanıcı deneyimi açısından tasarımsal eksikler belirlenmiş ve gerekli geri bildirimler ekip ile paylaşılmıştır.
 
-## 📌 Daily Scrum
+**📌 Daily Scrum**
 - Günlük toplantılar Google Meet üzerinden düzenli olarak yapılmıştır.
 - Toplantı zamanları WhatsApp grubu üzerinden duyurulmuş, esnek katılım sağlanmıştır.
 - Katılamayan ekip üyeleri çalışmalarını WhatsApp üzerinden raporlamıştır.
 
-## ✅ Sprint Review
+**✅ Sprint Review**
 - Giriş ekranı, oyun haritası ve temel Unity işlevleri detaylı şekilde gözden geçirilmiştir.
 - Harita renkleri ve görsel uyum üzerine yapıcı yorumlar alınmıştır.
 - İlk oyun mekanikleri olumlu karşılanmış, geliştirme yönünde ekip içinde fikir birliği sağlanmıştır.
 
-## 🔁 Sprint Retrospective
+**🔁 Sprint Retrospective**
 - Ekip, yazılım ve tasarım olmak üzere iki alt gruba ayrılarak çalışmalarını yoğunlaştırmıştır.
 - Yazılım grubu teknik geliştirmeler üzerinde çalışırken, tasarım grubu arayüz ve görsel uyum konularına odaklanmıştır.
 - İlerleyen süreçte kullanılacak arayüz öğeleri ve oyun asset’leri için hazırlıklar başlatılmıştır.
 - İletişim ve koordinasyonun devamlılığı için haftalık toplantıların düzenli yapılmasına karar verilmiştir.
 - 
-## 🎯 Tahmini Sprint Puanı
+**🎯 Tahmini Sprint Puanı**
 Sprint 2 için toplam 100 puanlık iş planlanmış ve görevler bu doğrultuda dağıtılmıştır. Tüm görevler Trello üzerinden takip edilerek düzenli olarak güncellenmiştir.
 
-## 🔁 Sprint Retrospective images
+**🔁 Sprint Retrospective images**
 
 <img src="https://github.com/user-attachments/assets/b0072f01-cfb0-444a-9b58-d4598c6a1a6d" alt="logo 1" width="400" height="500" />
 
@@ -100,7 +102,7 @@ Sprint 2 için toplam 100 puanlık iş planlanmış ve görevler bu doğrultuda 
 <img src="https://github.com/user-attachments/assets/aaacad85-732c-475f-b8d6-a827a108d5fd" alt="logo 4" width="400" height="500" />
 
 
-## Sprint board:
+**Sprint board:**
 <img width="1915" height="910" alt="Ekran görüntüsü 2025-07-19 134502" src="https://github.com/user-attachments/assets/08c475e7-b3d5-4e3e-817e-13a956915d72" />
 
 
