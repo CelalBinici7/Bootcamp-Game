@@ -28,7 +28,7 @@ Platform: PC / Bakış Açısı: Top-down veya izometrik Tema: Bilim kurgu, uzay
 
 # Sprint 1
 
-# 🚀 Sprint 1 Raporu – Last Space
+**🚀 Sprint 1 Raporu – Last Space**
 
 - 📝 **Sprint Notu:**  
   Oyun fikri net bir şekilde belirlendi, ekip içi toplantılar düzenlenerek görev dağılımları yapıldı ve proje sürecine dair ilk adımlar atıldı. Sprint süresince yapılan işler, karşılaşılan problemler ve elde edilen ilerlemeler değerlendirildi.
