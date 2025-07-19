@@ -17,7 +17,8 @@ Grup 35 (Unity)
 # Oyun İsmi
 **LAST SPACE**
 
-<img width="300" height="300" alt="unnamed" src="https://github.com/user-attachments/assets/0620d816-5108-4a29-82cf-77b4509548e3" />
+<img width="300" height="300" alt="unnamed" src="https://github.com/user-attachments/assets/03eb2e62-2c31-493c-9010-18e0bfb0414f" />
+
 
 
 # Product Backlog URL
