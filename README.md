@@ -85,5 +85,20 @@ Ekip üyeleri bireysel görevlerini tamamlayarak gelişmeleri WhatsApp üzerinde
 - İlerleyen süreçte kullanılacak arayüz öğeleri ve oyun asset’leri için hazırlıklar başlatılmıştır.
 - İletişim ve koordinasyonun devamlılığı için haftalık toplantıların düzenli yapılmasına karar verilmiştir.
 
+## 🔁 Sprint Retrospective images
+
+<img src="https://github.com/user-attachments/assets/b0072f01-cfb0-444a-9b58-d4598c6a1a6d" alt="logo 1" width="400" height="500" />
+
+<img src="https://github.com/user-attachments/assets/8f634bb4-f5fd-4a53-a0cc-e49a6fa1c310" alt="logo 2" width="600" height="500" />
+
+<img src="https://github.com/user-attachments/assets/aac7f3a9-c8d1-43e4-aa2e-a933aa0ddef2" alt="logo 3" width="300" height="500" />
+
+<img src="https://github.com/user-attachments/assets/aaacad85-732c-475f-b8d6-a827a108d5fd" alt="logo 4" width="400" height="500" />
+
+
+
+
 ## 🎯 Tahmini Sprint Puanı
 Sprint 2 için toplam 100 puanlık iş planlanmış ve görevler bu doğrultuda dağıtılmıştır. Tüm görevler Trello üzerinden takip edilerek düzenli olarak güncellenmiştir.
+
+
