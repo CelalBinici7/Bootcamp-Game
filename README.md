@@ -3,10 +3,6 @@ Grup 35 (Unity)
 # Takım Logosu
 <img width="816" height="1024" alt="logo 1" src="https://github.com/user-attachments/assets/eef4b021-c24d-4369-94e3-a327ea7a8e81" />
 # Takım Üyeleri
-| Name | Title | Socials |
-|----------|----------|----------|
-| Çağla  Hüdanur Ezber   | Scrum Master   | www.linkedin.com/in/caglahudanurezber   |
-| Başar Çelik   | Developer   | https://www.linkedin.com/in/ba%C5%9Far-%C3%A7elik-44000b18a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app   |
 Çağla Ezber - Scrum Master /
 Başar Çelik - Developer /
 Sedef Şahin - Product Owner /
