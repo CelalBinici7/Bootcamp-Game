@@ -53,7 +53,7 @@ Platform: PC / Bakış Açısı: Top-down veya izometrik Tema: Bilim kurgu, uzay
 - 🔄 **Sprint Retrospective:**  
   Ekip, iş bölümü açısından yazılım ve tasarım olmak üzere iki ana gruba ayrıldı. Yazılımcılar (Başar, Celal, Derya) oyunun kalan dört bölümünü geliştirerek projenin teknik altyapısını tamamlamaya odaklanırken; tasarımcılar (Çağla, Sedef) oluşturulan bölümlerdeki eksiklikleri gidermek, arayüzleri düzenlemek ve oyunu final aşamasına hazır hale getirmek üzere çalışmalarını sürdürdü. Toplantıların belirli zaman aralıklarıyla ve düzenli şekilde gerçekleştirilmesine karar verildi. Ayrıca, üretim sürecinde görev alan ekip üyeleri, ilerleyen aşamalarda ihtiyaç duyulabilecek asset’lerin listesini hazırlayarak sonraki sprintler için ön hazırlık yaptı.
 
-** - Sprint board:**
+**- Sprint board:**
 
 ![Ekran görüntüsü 2025-07-07 222750](https://github.com/user-attachments/assets/b6081c72-f326-411c-8843-c0a59e39e986)
 
@@ -105,7 +105,7 @@ Sprint 2 için toplam 100 puanlık iş planlanmış ve görevler bu doğrultuda 
 <img src="https://github.com/user-attachments/assets/aaacad85-732c-475f-b8d6-a827a108d5fd" alt="logo 4" width="400" height="500" />
 
 
-** - Sprint board:**
+**- Sprint board**
 
 <img width="1915" height="910" alt="Ekran görüntüsü 2025-07-19 134502" src="https://github.com/user-attachments/assets/08c475e7-b3d5-4e3e-817e-13a956915d72" />
 
