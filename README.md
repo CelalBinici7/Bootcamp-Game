@@ -23,8 +23,43 @@ Grup 35 (Unity)
 # Product Backlog URL
 https://trello.com/b/QmMI765V/bootcamp
 
+# Oyun Açıklaması
+Son ışıklar sönmek üzere. Terk edilmiş bir uzay istasyonunda, dört yabancı uyanır. Tek çıkış kapısı, yalnızca bir kişiyi kurtarabilir. Güven, dostluk ve hayatta kalma sınanıyor. İş birliğiyle sistemleri onarın, ama dikkat edin; her adımda ihanet kapıda. Last Space, zamana karşı yarıştığınız, kalbinizi ve aklınızı zorlayan bir uzay macerası. 
+
+# Oyun Hikayesi
+Yıllardır sessiz kalan uzay istasyonu, yıkılmanın eşiğinde. İçinde uyanan dört astronot, geçmişlerini hatırlamıyor. Kapsül, hayat kurtaracak tek şansları ama sadece bir kişi için yeterli. Zaman tükenirken, umutları ve korkuları yan yana büyür. Kimin dost, kimin düşman olduğunu anlamak zordur. Birlikte çalışmalı, sırları çözmeli, ama her an tetikte olmalısınız. Çünkü bazen en büyük tehdit, kendi ekibiniz olabilir.
+
+# Oyun Özellikleri 
+3D 
+
+Çok oyunculu (2-4 kişi) co-op ve PvPvE
+
+Bilim kurgu temalı macera ve strateji
+
+Gerilim dolu, takım içi güven ve ihanet dinamikleri
+
+Low-poly stilinde görseller
+
+Zaman baskılı interaktif görevler ve mini oyunlar
+
+Sınırlı iletişim ile yoğun atmosfer
+
 # Oyunun Vizyonu
 Platform: PC / Bakış Açısı: Top-down veya izometrik Tema: Bilim kurgu, uzay, gizem. Konsept: Oyuncular, terk edilmiş bir uzay istasyonunda uyanan astronotlar. İstasyon yıkılmak üzere ve tek çıkış yolu son kalan kaçış kapsülü. Ama bir sorun var: kapsül yalnızca bir kişilik.  Her oyuncunun amacı, sistemleri tamir edip kapsülün konumunu açığa çıkarmak. Ama kapsül aktif olduğunda, kalan herkes geride kalacak. Oyuncular iş birliği yaparak bilgi ve kaynakları toplamak zorunda — ama oyunun sonlarına doğru güven duygusu yerini ihanete bırakabilir. Oynanış Mekanikleri: Zaman baskısı: Oyunda belirli bir süre var. Süre dolduğunda istasyon infilak ediyor.  İş birliği & Sabotaj: Oyuncular birlikte çalışmak zorunda, ama bazı sistemleri sabote ederek diğer oyunculara engel de olabilirler.  Mini oyunlar: Sistemleri onarmak için çeşitli mini görevler (basit bulmacalar, hafıza oyunları, ritim oyunları vs).  Kısıtlı kaynak: Herkes aynı anda her yere gidemez; sistemleri onarmak için belirli malzemeler gerekiyor.  İletişim: Sesli veya yazılı chat üzerinden sınırlı iletişim — mesela sadece belirli odalardayken sesli konuşabilme (proximity chat hissi).
+
+# Hedef Kitle
+Bağımsız (Indie) Oyun Severler
+Macera Severler
+12 ve Üzeri Yaşta Oyuncular
+
+# Pazarlama Planı 
+Ekip içi güçlü iş birliği, disiplinli çalışma ve yaratıcı vizyonumuz sayesinde Last Space’in sadece bir oyun değil, aynı zamanda oyunculara unutulmaz bir deneyim sunacağına inanıyoruz. Bu nedenle, klasik reklam modelleri yerine Steam platformunda yerimizi almayı hedefliyoruz.
+
+İlk sürümümüzün ardından oyuncu geri bildirimlerine odaklanarak oyunu sürekli geliştirmeyi, yeni görevler ve kozmetikler ekleyerek canlı tutmayı planlıyoruz. Böylece sadık bir oyuncu kitlesi oluşturmayı ve sürdürülebilir bir satış başarısı yakalamayı amaçlıyoruz.
+
+Oyunun çıkış fiyatı 3-8$ aralığında belirlenecek; erişilebilir ama kaliteli bir yapım olduğunu vurgulamak istiyoruz.
+
+Toplulukla bağı güçlendirmek için düzenli olarak “Last Space Oyun Geceleri” organize edeceğiz. Bu etkinliklerde oyuncular bir araya gelerek birlikte oynayacak, sohbet edecek ve oyun içi özel ödüller kazanabilecekler. Aynı zamanda bu geceler, güncellemeler öncesi test sürecinde geri bildirim toplamak için de önemli bir alan oluşturacak.
 
 # Sprint 1
 
