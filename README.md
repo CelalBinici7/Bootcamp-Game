@@ -132,7 +132,7 @@ Ekip üyeleri bireysel görevlerini tamamlayarak gelişmeleri WhatsApp üzerinde
 **🎯 Tahmini Sprint Puanı**
 Sprint 2 için toplam 100 puanlık iş planlanmış ve görevler bu doğrultuda dağıtılmıştır. Tüm görevler Trello üzerinden takip edilerek düzenli olarak güncellenmiştir.
 
-**🔁 Sprint Retrospective images**
+**🔁 Ürün ekran görüntüleri**
 
 <img src="https://github.com/user-attachments/assets/b0072f01-cfb0-444a-9b58-d4598c6a1a6d" alt="logo 1" width="400" height="500" />
 
@@ -142,8 +142,11 @@ Sprint 2 için toplam 100 puanlık iş planlanmış ve görevler bu doğrultuda 
 
 <img src="https://github.com/user-attachments/assets/aaacad85-732c-475f-b8d6-a827a108d5fd" alt="logo 4" width="400" height="500" />
 
+**🔁Daily scrum**
 
-**- Sprint board**
+<img src="https://github.com/user-attachments/assets/1adc356f-a316-4092-aca4-beda2456d63e" width="300" height="700" />
+
+**✅ Sprint board**
 
 <img width="1915" height="910" alt="Ekran görüntüsü 2025-07-19 134502" src="https://github.com/user-attachments/assets/08c475e7-b3d5-4e3e-817e-13a956915d72" />
 
