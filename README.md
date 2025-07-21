@@ -12,7 +12,7 @@ Grup 35 (Unity)
 | Başar Çelik        | Developer        | [LinkedIn](https://www.linkedin.com/in/başar-çelik-44000b18a)          |
 | Sedef Şahin        | Product Owner    | [LinkedIn](#) / [GitHub](#)                                            |
 | Celal Binici       | Developer        | [LinkedIn](https://www.linkedin.com/in/celal-binici-01997a1a6)         |
-| Derya Nur Yılmaz   | Developer        | [LinkedIn](#) / [GitHub](#)  
+| Derya Nur Yılmaz   | Developer        | [LinkedIn](https://www.linkedin.com/in/derya-nur-y%C4%B1lmaz-531b1033a) / [GitHub](#) |
 
 # Oyun İsmi
 **LAST SPACE**
