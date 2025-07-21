@@ -10,7 +10,7 @@ Grup 35 (Unity)
 |--------------------|------------------|------------------------------------------------------------------------|
 | Çağla Hüdanur Ezber        | Scrum Master     | [LinkedIn](https://www.linkedin.com/in/caglahudanurezber)              |
 | Başar Çelik        | Developer        | [LinkedIn](https://www.linkedin.com/in/başar-çelik-44000b18a)          |
-| Sedef Şahin        | Product Owner    | [LinkedIn](#) / [GitHub](#)                                            |
+| Sedef Şahin        | Product Owner    | [LinkedIn](https://www.linkedin.com/in/sedef-sahin9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)|
 | Celal Binici       | Developer        | [LinkedIn](https://www.linkedin.com/in/celal-binici-01997a1a6)         |
 | Derya Nur Yılmaz   | Developer        | [LinkedIn](https://www.linkedin.com/in/derya-nur-y%C4%B1lmaz-531b1033a)  |
 
