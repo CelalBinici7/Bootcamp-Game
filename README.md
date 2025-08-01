@@ -130,7 +130,7 @@ Ekip üyeleri bireysel görevlerini tamamlayarak gelişmeleri WhatsApp üzerinde
 - İletişim ve koordinasyonun devamlılığı için haftalık toplantıların düzenli yapılmasına karar verilmiştir.
 - 
 **🎯 Tahmini Sprint Puanı**
-Sprint 2 için toplam 100 puanlık iş planlanmış ve görevler bu doğrultuda dağıtılmıştır. Tüm görevler Trello üzerinden takip edilerek düzenli olarak güncellenmiştir.
+Sprint 2 için toplam 200 puanlık iş planlanmış ve görevler bu doğrultuda dağıtılmıştır. Tüm görevler Trello üzerinden takip edilerek düzenli olarak güncellenmiştir.
 
 **🔁 Ürün ekran görüntüleri**
 
@@ -150,5 +150,69 @@ Sprint 2 için toplam 100 puanlık iş planlanmış ve görevler bu doğrultuda 
 
 <img width="1915" height="910" alt="Ekran görüntüsü 2025-07-19 134502" src="https://github.com/user-attachments/assets/08c475e7-b3d5-4e3e-817e-13a956915d72" />
 
+
+# Sprint 3
+
+**🚀 Sprint 3 Raporu – Last Space**
+
+## 🎯 Tahmin Edilen Tamamlanacak Puan: 110
+
+---
+
+## 📌 Sprint Özeti
+
+Sprint 3, temel sistemlerin birleştirilmesi ve oyun deneyiminin daha işlevsel hâle getirilmesine odaklanılan verimli bir dönem olmuştur. Bu süreçte ses sistemleri, multiplayer altyapısı, karakter prefab’ı gibi teknik bileşenler büyük ölçüde tamamlanmış, proje genelinde entegrasyon çalışmaları hız kazanmıştır.
+
+Ekibin yazılım ve tasarım alanlarındaki ilerlemeleri paralel şekilde sürmüş, geliştirmeler ekip içi sürekli iletişimle senkronize edilmiştir. Özellikle gece saatlerinde gerçekleştirilen birleşim oturumları, projenin bütünsel yapısının oluşmasına katkı sağlamıştır.
+
+---
+
+## ✅ Yapılan Çalışmalar
+
+- 🎧 **Ses sistemi** ve **chat altyapısı** başarıyla entegre edilmiştir. Sesli iletişim ve yazılı mesajlaşma testleri yapılmıştır.
+- 🎮 **Multiplayer lobisi** kurulmuş, oyuncuların bir araya gelebileceği sistem tasarlanmıştır.
+- 🧍 **Karakter prefab’ı** tamamlanarak oyunun başlatılması için temel yapı oluşturulmuştur.
+- 🧩 Geliştirilen parçalar gece oturumlarında birleştirilmiş, temel bir demo akışı oluşturulmuştur.
+- 🖥️ Önceki sprintteki kullanıcı arayüzü öğeleri yeni sistemlerle entegre edilmiştir.
+- 📌 Her ekip üyesi, sorumlu olduğu kısmın ilerlemesini **WhatsApp** üzerinden bildirmiştir.
+
+---
+
+## 📌 Daily Scrum
+
+- Günlük scrum toplantıları **Google Meet** üzerinden gerçekleştirilmiştir.
+- Katılım esnekliği sağlanmış, katılamayan üyeler çalışmaları **WhatsApp** üzerinden özetlemiştir.
+- Görevlerin ilerleyişi **Trello kartları** üzerinden günlük olarak güncellenmiştir.
+
+---
+
+## ✅ Sprint Review
+
+- **Multiplayer sistem**, **ses-chat entegrasyonu** ve **karakter prefab’ı** ekipçe test edilmiştir.
+- Sistemlerin entegrasyonu sırasında karşılaşılan sorunlar ekip içinde çözülerek işlevsel bir demo oluşturulmuştur.
+- Görsel uyum, ses efektleri ve karakter dinamikleri üzerine geribildirimler toplanmış, geliştirmeye açık noktalar belirlenmiştir.
+- Oyunun son haline getirilmesi hedeflenmiştir.
+- video, sprint notları ve oyunun kalan kısımları bitirilmiştir.
+
+---
+
+## 🔁 Sprint Retrospective
+
+- Yazılım tarafında ekip üyeleri daha modüler ve test edilebilir yapılar geliştirmek için iş bölümü yapmıştır.
+- Tasarım tarafı, yeni asset’ler ve oyun içi yönlendirmeler üzerine yoğunlaşmıştır.
+- Parçaların ayrı geliştirilip geceleri birleştirilmesi yöntemi olumlu sonuç vermiştir.
+- İletişimin güçlenmesi adına **kısa günlük rapor** sistemine devam edilmesine karar verilmiştir.
+- Takipte kullanılan **Trello kartlarının** daha detaylı doldurulması konusunda ortak karar alınmıştır.
+
+---
+
+## 🎯 Tahmini Sprint Puanı
+
+Sprint 3 kapsamında toplam **300 puanlık iş** planlanmış, görev dağılımı buna göre gerçekleştirilmiş ve çoğu görev başarıyla tamamlanmıştır. Yapılan işler **Trello** üzerinden düzenli olarak takip edilmiştir.
+
+**🔁Daily scrum**
+
+**✅ Sprint board**
+<img width="1917" height="958" alt="Ekran görüntüsü 2025-08-01 140817" src="https://github.com/user-attachments/assets/dcd57beb-f445-437b-a045-4daf10d80ad5" />
 
 
